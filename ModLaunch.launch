@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+	<node name="Yaw_node" pkg="mapping" type= "yawalt.py"/>
+	<node name="monitor" pkg="mapping" type= "mapping_node" output="screen"/>
+	<node name="avoid" pkg="mapping" type= "avoid.py"/>
+	<node name="planner" pkg="mapping" type= "planner.py"/>
+</launch>
