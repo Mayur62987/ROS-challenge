@@ -2,7 +2,7 @@
 ROSbot challenge
 This project served as a learning tool for ROS kinetic
 The challenge involved navigating an unknown environment using a Husarion ROSbot 1
-The ROSbot is to navigate within the shortest time and distance without colliding with any obsticales
+The ROSbot is to navigate within the shortest time and distance without colliding with any obstacles
 
 ![image](https://user-images.githubusercontent.com/73953831/159933152-c4102aea-eb6a-47d8-ab07-9615177344a0.png)
 
